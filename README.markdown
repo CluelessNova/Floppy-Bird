@@ -1,4 +1,4 @@
-# Flappy Bird
+# Floppy Bird
 
 ##### This is my remake of Flappy Bird, the old mobile game back from 2013. I made it using the Processing coding software.
 
